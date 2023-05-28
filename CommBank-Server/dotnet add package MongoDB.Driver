@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "CommBank": "{mongodb+srv://arunjk140113:<Arun@140113>@shared.g0tspsy.mongodb.net/?retryWrites=true&w=majority}"
+  }
+}
